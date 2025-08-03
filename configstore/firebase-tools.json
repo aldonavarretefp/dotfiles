@@ -1,0 +1,61 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1738319776543
+	},
+	"usage": true,
+	"analytics-uuid": "259eb3d0-9200-4d05-b494-5817e27ec60a",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "103032193057553692350",
+		"email": "aaldiitoo@gmail.com",
+		"email_verified": true,
+		"at_hash": "1bZ607xH8bTSaLArNfbneg",
+		"iat": 1714480727,
+		"exp": 1714484327
+	},
+	"tokens": {
+		"expires_at": 1738323375391,
+		"refresh_token": "1//03MhwnGe2IDBOCgYIARAAGAMSNwF-L9Irbuf09JoXFFjI8FdedQG7t3srMNJb9toDmWon_dNj09Ib0Czqx_kdAH1I3moYliLw_cc",
+		"scopes": [],
+		"access_token": "ya29.a0AXeO80SWGFWbQnjt-SjTcHXSeIzPUoaL04UCB-8FxVzh30i2SNdvseb0PEd63qebpOxGYg-Izb0kGxX0xnTbhlEOidKfUTvzgYwYH7aH8dwWcYVLtxP5fPbsHZ-i3LJW_MMImkkCti4Sr-MgUtpalgcl_QI9JcGfszqAu7z8n_3ejiXDaCgYKAesSARASFQHGX2MiiuJ3J33P34wI9FGuCTeE4g0183",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAzMDMyMTkzMDU3NTUzNjkyMzUwIiwiZW1haWwiOiJhYWxkaWl0b29AZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJTcEFBZVNZemR4VWJmVF9fS3NFRk1RIiwiaWF0IjoxNzM4MzE5Nzc2LCJleHAiOjE3MzgzMjMzNzZ9.abFG0vSusNUU7bF-gEoEaLM_DxiaaJvGf5JcxVUwEeAqFfOdzWs48dJbDgRKO65-AQBL0dHlOVmOtgEVj9QWEg_rqQrsDRAIWaSCTQFFUZvuN8RAZFaLrn6Q01xn94T8F0YEGZhY29hvm3FFiVPmKNT0uF3p_A6Xc4lyzWC0_TgK5IEFF096mY3IsMOY6vdpAlhrI0d8lwc-7MIcWs4eTaEDxn9SL6zLVgKJfnRFJInwwhSsCrgEbTZOebx6RMjP72BLrlCObvZ83fdNjH_cVU7IewqZq5yNzDQxrTLV_dX2i3u9KSWpMMS8i9OftePDe7dSezdYFcanEuP8uw3rog"
+	},
+	"activeProjects": {
+		"/Users/navarrete/Desktop/emulators-codelab/codelab-initial-state": "serenade-da086",
+		"/Users/navarrete/Downloads/ADA/Cloud-Func-Google": "serenade-v2",
+		"/Users/navarrete/Downloads/ADA/Cloud-Func-Google2": "serenade-da086",
+		"/Users/navarrete/Downloads/ADA/Serenade-v2": "serenade-da086"
+	},
+	"emulator-analytics-clientId": "09fd0d59-0ffc-4b3a-aaa3-d386d74a2079",
+	"adminsdkconfig": {
+		"serenade-da086": {
+			"projectId": "serenade-da086",
+			"storageBucket": "serenade-da086.appspot.com",
+			"locationId": "us-central"
+		}
+	},
+	"webconfig": {
+		"serenade-da086": {
+			"projectId": "serenade-da086",
+			"appId": "1:985671824577:web:af40bce6db005da35f9040",
+			"storageBucket": "serenade-da086.appspot.com",
+			"locationId": "us-central",
+			"apiKey": "AIzaSyABLGydkwpAR_nTxlU18MHlBOH5Z-8TMHM",
+			"authDomain": "serenade-da086.firebaseapp.com",
+			"messagingSenderId": "985671824577",
+			"measurementId": "G-9J0JBL4K52"
+		}
+	}
+}
